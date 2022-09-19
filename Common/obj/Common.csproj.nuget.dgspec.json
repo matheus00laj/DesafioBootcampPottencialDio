@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\DesafioBootcampPottencialDio\\Common\\Common.csproj": {}
+    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\DesafioBootcampPottencialDio\\DesafioBootcampPottencialDio\\Common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\DesafioBootcampPottencialDio\\Common\\Common.csproj": {
+    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\DesafioBootcampPottencialDio\\DesafioBootcampPottencialDio\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\DesafioBootcampPottencialDio\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\DesafioBootcampPottencialDio\\DesafioBootcampPottencialDio\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\DesafioBootcampPottencialDio\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\DesafioBootcampPottencialDio\\DesafioBootcampPottencialDio\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\DesafioBootcampPottencialDio\\Common\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\DesafioBootcampPottencialDio\\DesafioBootcampPottencialDio\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"

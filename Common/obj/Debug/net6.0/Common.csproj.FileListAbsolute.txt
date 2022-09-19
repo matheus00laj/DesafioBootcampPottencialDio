@@ -10,3 +10,15 @@ C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\Common\ob
 C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\Common\obj\Debug\net6.0\refint\Common.dll
 C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\Common\obj\Debug\net6.0\Common.pdb
 C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\DesafioBootcampPottencialDio\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\DesafioBootcampPottencialDio\Common\bin\Debug\net6.0\Common.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\DesafioBootcampPottencialDio\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\DesafioBootcampPottencialDio\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\DesafioBootcampPottencialDio\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\DesafioBootcampPottencialDio\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\DesafioBootcampPottencialDio\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\DesafioBootcampPottencialDio\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\DesafioBootcampPottencialDio\Common\obj\Debug\net6.0\Common.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\DesafioBootcampPottencialDio\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\DesafioBootcampPottencialDio\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\DesafioBootcampPottencialDio\DesafioBootcampPottencialDio\Common\obj\Debug\net6.0\ref\Common.dll

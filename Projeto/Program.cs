@@ -1,45 +1,41 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Common.Models;
+﻿using Common.Models;
 
-
-int opcao;
-bool continuar= true;
+int op;
+bool continuar=true;
 Carro carro = new Carro();
+Estacionamento estacionamento =  new Estacionamento();
+estacionamento.ListaCarros = new List<Carro>();
+
 do{
     Console.WriteLine("\n");
-    Console.WriteLine("Estacionamento-DIO");
-    Console.WriteLine("Selecione uma opção:");
-    Console.WriteLine("1- Cadastrar a entrada de um carro");
-    Console.WriteLine("2- Ver a lista de carros que entraram");
-    Console.WriteLine("3- Remover algum carro");
+    Console.WriteLine("ESTACIONAMENTO-DIO");
+    Console.WriteLine("DIGITE A OPÇÃO DESEJADA");
+    Console.WriteLine("1- Cadastrar a entrada de um veículo");
+    Console.WriteLine("2- Cadastrar a saída de um veículo");
+    Console.WriteLine("3- Ver a listagem dos veículos");
     Console.WriteLine("4- Sair");
-    opcao=int.Parse(Console.ReadLine());
-    Console.WriteLine("\n\n");
-
-    switch(opcao){
+    op = int.Parse(Console.ReadLine());
+    Console.WriteLine("\n");
+    switch(op){
         case 1:{
-            carro.RegistraPlaca();
-            carro.RegistraVaga();
-            carro.RegistraHoras();
-        } break;
+            carro.CadastrarPlacaDoCarro();
+            carro.CadastrarCorDoCarro();
+            carro.CadastrarHoras();
+            estacionamento.AdicionarCarro(carro);
+        }; break;
         case 2:{
-            carro.Listagem();
-        } break;
+            Console.WriteLine("Digite a vaga do veículo que irá sair");
+            estacionamento.ListarCarros();
+            estacionamento.RemoverCarro(int.Parse(Console.ReadLine()));
+        }; break;
         case 3:{
-            carro.Remover();
-        } break;
-        case 4: {
-            continuar = false;
-        }break;
+            estacionamento.ListarCarros();
+        }; break;
+        case 4: continuar = false; break;
         default:{
-            Console.WriteLine("Opção inválida!");
-            Console.WriteLine("Tente Novamente!\n\n");
-        }break;
-        
-
+            Console.WriteLine("OPÇÃO INVÁLIDA! TENTE NOVAMENTE!\n");
+        } break;
     }
+    Console.WriteLine("\n");
 
 }while(continuar);
